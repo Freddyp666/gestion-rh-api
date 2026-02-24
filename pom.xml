@@ -11,8 +11,8 @@
    <groupId>com.crud.card</groupId>
    <artifactId>GestionRH</artifactId>
    <version>0.0.1-SNAPSHOT</version>
-   <name>GestionRH</name>
-   <description>GestionRH</description>
+   <name>gestion-rh-api</name>
+   <description>gestion-rh-api</description>
    <url/>
    <licenses>
 	  <license/>
