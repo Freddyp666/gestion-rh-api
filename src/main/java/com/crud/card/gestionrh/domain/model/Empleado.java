@@ -1,4 +1,4 @@
-package com.crud.card.gestionrh.model;
+package com.crud.card.gestionrh.domain.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;

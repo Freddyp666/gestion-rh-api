@@ -1,4 +1,4 @@
-package com.crud.card.gestionrh.dto;
+package com.crud.card.gestionrh.api.dto;
 
 import lombok.Data;
 
