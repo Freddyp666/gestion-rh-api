@@ -23,4 +23,7 @@ public class EmpleadoController {
         return empleadoRepositorio.findAll();
     }
 
+    @GetMapping("/empleados")
+    public  List<Empleado>ListaAll(){return  empleadoRepositorio.findAll();}
+
 }
